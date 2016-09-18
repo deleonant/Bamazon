@@ -54,5 +54,5 @@ prompt.get('itemID', function(err, result) {
 
 
 
-// end the connection
+
 //connection.end();
